@@ -1,7 +1,7 @@
 # 🧠 MFactSum: Abstractive Dialogue Summarization via Multi-Level Factual
 Consistency
 > **MOEsum** is an innovative dialogue summarization framework that integrates **MoE (Mixture-of-Experts)** architecture, an **Event Factuality Module (Event-cross-attn)**, and **Contrastive Learning**.
-> The system leverages **DocIE@UIEPrompter** for event extraction and employs diverse negative samples in contrastive learning, significantly improving the **factuality**, **fluency**, and **robustness** of generated summaries.
+> The system leverages for event extraction and employs diverse negative samples in contrastive learning, significantly improving the **factuality**, **fluency**, and **robustness** of generated summaries.
 
 ---
 
