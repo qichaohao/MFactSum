@@ -74,7 +74,10 @@ Each training sample should contain:
   ],
   "neg1": "negative summary 1",
   "neg2": "negative summary 2",
-  "neg3": "negative summary 3"
+  "neg3": "negative summary 3",
+  "neg4": "negative summary 1",
+  "neg5": "negative summary 2",
+  "neg6": "negative summary 3"
 }
 ```
 
