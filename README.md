@@ -106,16 +106,4 @@ python run_summarization.py \
   --text_column text \
   --summary_column summary \
   --num_beams 4 \
-  --use_expert_mode True \
-  --num_experts 4 \
-  --moe_top_k 2 \
-  --moe_temperature 1.0 \
-  --moe_noise_std 0.1 \
-  --moe_aux_loss_weight 0.01 \
-  --num_moe_layers 1 \
-  --do_contrastive_learning True \
-  --contrastive_loss_weight 0.1 \
-  --contrastive_margin 0.2 \
-  --num_contrastive_negatives 3 \
-  --use_event_factuality True
 ```
