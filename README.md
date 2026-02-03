@@ -50,7 +50,6 @@ MOEsum/
 │       └── dialogsum/
 │
 ├── facebook/
-│   ├── bart-base/
 │   └── bart-large/
 │
 └── README.md
