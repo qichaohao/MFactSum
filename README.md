@@ -23,13 +23,13 @@ The summarization model implemented in this repository integrates three key tech
 ## ⚙️ Environment Requirements
 
 ```bash
-transformers==4.30.2
+transformers==4.30.2      # must
 torch>=2.0
 nltk
 datasets
 evaluate
 filelock
-sentence-transformers   # optional, used for contrastive embeddings
+sentence-transformers   
 ```
 
 ---
